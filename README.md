@@ -159,13 +159,10 @@ Quick learner with the ability to adapt to new technologies and contribute effec
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/gokulasree/gokulasree/blob/output/github-snake-dark.svg)
 
 </div>  
+
 
 ---
 
