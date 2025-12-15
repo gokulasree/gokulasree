@@ -59,7 +59,7 @@ Quick learner with the ability to adapt to new technologies and contribute effec
 
 <br>
 
-## Featured Projects  
+<!--## Featured Projects  
 
 <table align="center" width="100%">
   <tr>
@@ -120,7 +120,7 @@ Quick learner with the ability to adapt to new technologies and contribute effec
       🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
     </td>
   </tr>
-</table>
+</table>-->
 
 
 ##  DSA & Problem Solving Achievements
